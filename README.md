@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Abdulhamid Afolabi!
-#### Machine Learning Engineer and  Web Developer
+#### Web Developer and Machine Learning Engineer 
 
 [![Twitter: Afoojnr](https://img.shields.io/twitter/follow/Afoojnr?style=social)](https://twitter.com/Afoojnr)
 [![Linkedin: Afolabi](https://img.shields.io/badge/-Afolabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulhamid-afolabi-065b38160/)](https://www.linkedin.com/in/abdulhamid-afolabi-065b38160)
