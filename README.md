@@ -5,7 +5,7 @@
 [![Linkedin: Afolabi](https://img.shields.io/badge/-Afolabi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulhamid-afolabi-065b38160/)](https://www.linkedin.com/in/abdulhamid-afolabi-065b38160)
 [![GitHub Afolabi](https://img.shields.io/github/followers/afoojnr?label=follow&style=social)](https://github.com/Afoojnr)
  
-### ⚡A little more about me...
+#### ⚡A little more about me...
 ###### By day ☼, I delve into the world of material properties prediction using machine learning, while by night ☾, I channel my creativity as a front-end web developer. I'm passionate about leveraging both disciplines to create stunning websites and unlock insights in the field of materials science. Let's bring innovation to life together!
  
 
