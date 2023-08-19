@@ -6,7 +6,7 @@
 [![GitHub Afolabi](https://img.shields.io/github/followers/afoojnr?label=follow&style=social)](https://github.com/Afoojnr)
  
  ### ⚡ Current Stats
-#### ![Abdulhamid's github stats](https://github-readme-stats.vercel.app/api?username=afoojnr&show_icons=true&theme=dracula&hide=stars,issues)
+#### ![Abdulhamid's github stats](https://github-readme-stats.vercel.app/api?username=Afoojnr&show_icons=true&theme=dracula&hide=stars,issues)
 
 #### ⚡A little more about me...
 ###### By day ☼, I delve into the world of material properties prediction using machine learning, while by night ☾, I channel my creativity as a front-end web developer. I'm passionate about leveraging both disciplines to create stunning websites and unlock insights in the field of materials science. Let's bring innovation to life together!
