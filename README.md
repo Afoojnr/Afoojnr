@@ -14,7 +14,7 @@ I started coding in 2019 to apply machine learning to my chemistry research, bui
 
 ## Tech
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Jest
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Mobile:** React Native, Expo, Flutter
 - **Backend:** Node.js, Express, PostgreSQL
 - **Also:** Python (ML)
